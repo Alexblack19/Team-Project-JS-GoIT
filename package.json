@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://goitacademy.github.io/AndreyS86/Project-Yummy-Creators-",
+  "homepage": "https://Alexblack19.github.io/Team-Project-JS-GoIT ",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /Project-Yummy-Creators-/"
+    "build": "parcel build src/*.html --public-url /Team-Project-JS-GoIT /"
   },
   "repository": {
     "type": "git",
